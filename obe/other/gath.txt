@@ -1,0 +1,25 @@
+====== Gath ======
+
+===== Facts: =====
+
+Gath was one of the five major cities of the Philistines. It was located north of Ekron and east of Ashdod and Ashkelon.
+
+  * The Philistine warrior Goliath was from the city of Gath.
+  * During the time of Samuel, the Philistines stole the ark of the covenant from Israel and took it to their pagan temple at Ashdod. It was then moved to Gath and later to Ekron. But God punished the people of those cities with disease, so they sent it back to Israel again.
+  * When David was escaping from King Saul, he fled to Gath and lived there for awhile with his two wives and six hundred men who were his loyal followers.
+
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:ashdod]], [[:bxu:obe:other:ashkelon]], [[:bxu:obe:other:ekron]], [[:bxu:obe:other:gaza]],  [[:bxu:obe:other:goliath]],  [[:bxu:obe:other:philistines]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gath(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

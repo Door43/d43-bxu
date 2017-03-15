@@ -1,0 +1,28 @@
+====== vineyard ======
+
+
+===== Definition: =====
+
+
+A vineyard is a large garden area where grapevines are grown and grapes are cultivated.
+
+    * A vineyard often has a wall around it to protect the fruit from thieves and animals.
+    * God compared the people of Israel to a vineyard that did not bear good fruit. (See: [[:bxu:ta:vol1:translate:figs_metaphor]])
+    * Vineyard could be also translated as, "grapevine garden" or "grape plantation."
+
+
+(See also: [[:bxu:obe:other:grape]], [[:bxu:obe:other:israel]], [[:bxu:obe:other:vine]])
+
+
+===== Bible References: =====
+
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* vineyard(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

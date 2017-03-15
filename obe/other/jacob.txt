@@ -1,0 +1,31 @@
+====== Jacob, Israel ======
+
+===== Facts: =====
+
+Jacob was the younger twin son of Isaac and Rebekah.
+
+  * Jacob's name means "he grabs the heel" which is an expression meaning, "he deceives." As Jacob was being born, he was holding onto the heel of his twin brother Esau.
+  * Many years later, God changed Jacob's name to "Israel," which means, "he struggles with God."
+  * Jacob was clever and deceptive. He found ways to take the firstborn blessing and inheritance rights from his older brother, Esau.
+  * Esau was angry and planned to kill him, so Jacob left his homeland. But years later Jacob returned with his wives and children to the land of Canaan where Esau was living, and their families lived peacefully near each other.
+  * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
+  * A different man named Jacob is listed as being Joseph's father in Matthew's genealogy.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:canaan]], [[:bxu:obe:kt:deceive]], [[:bxu:obe:other:esau]], [[:bxu:obe:other:isaac]], [[:bxu:obe:other:israel]], [[:bxu:obe:other:rebekah]], [[:bxu:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jacob(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bxu:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob**  loved to stay at home, but Esau loved to hunt.
+  * **[[:bxu:obs:notes:frames:07-07|[07-07]]]****Jacob**  lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
+  * **[[:bxu:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob**  returned there with his family, his servants, and all his herds of animals.
+  * **[[:bxu:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
+  * **[[:bxu:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob**  was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

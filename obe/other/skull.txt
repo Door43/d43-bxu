@@ -1,0 +1,19 @@
+====== skull ======
+
+===== Definition: =====
+
+The term "skull" refers to the bony, skeletal structure of the head of a person or animal.
+
+  * Sometimes the term "skull" means "head" as in the phrase, "shave your skull."
+  * The term, "Place of the Skull" was another name for Golgotha where Jesus was crucified.
+  * This term could also be translated as, "head" or "head bone."
+
+(See also: [[:bxu:obe:kt:crucify]], [[:bxu:obe:other:golgotha]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* skull(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

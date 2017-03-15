@@ -1,0 +1,21 @@
+====== Tarsus ======
+
+===== Facts: =====
+
+Tarsus was a prosperous city located in the Roman province of Cilicia, in what is now south central Turkey.
+
+  * Tarsus was located along a major river and near the Mediterranean Sea, which made it part of an important trade route.
+  * At one point in history, it was the capital city of Cilicia.
+  * In the New Testament, Tarsus was best known as the hometown of Paul the apostle.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:cilicia]], [[:bxu:obe:other:paul]], [[:bxu:obe:other:province]], [[:bxu:obe:other:mediterranean]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tarsus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

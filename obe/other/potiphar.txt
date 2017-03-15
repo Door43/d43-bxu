@@ -1,0 +1,20 @@
+====== Potiphar ======
+
+===== Facts: =====
+
+Potiphar was an important official for the pharaoh of Egypt during the time that Joseph was sold as a slave to some Ishmaelites.
+
+  * Potiphar bought Joseph from the Ishmaelites and appointed him to be in charge of his household.
+  * When Joseph was falsely accused of doing wrong, Potiphar had Joseph put in prison.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also:  [[:bxu:obe:other:egypt]], [[:bxu:obe;other:household]], [[:bxu:obe;other:ishmael]], [[:bxu:obe:other:josephot]], [[:bxu:obe:other:pharaoh]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* potiphar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

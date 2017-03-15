@@ -1,0 +1,24 @@
+====== Jephthah ======
+
+===== Facts: =====
+
+Jephthah was a warrior from Gilead who served as a judge over Israel.
+
+  * In Hebrews 11:32, Jephthah is praised as an important leader who delivered his people from their enemies.
+  * He rescued the Israelites from the Ammonites and led his people to defeat the Ephraimites.
+  * However, Jepthah made a foolish, hasty vow to God which resulted in him sacrificing his daughter.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:ammon]],  [[:bxu:obe:kt:deliverer]], [[:bxu:obe:other:ephraim]], [[:bxu:obe:other:judgeposition]], [[:bxu:obe:kt:vow]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jephthah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

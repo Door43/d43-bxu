@@ -1,0 +1,21 @@
+====== Zedekiah ======
+
+===== Facts: =====
+
+Zedekiah, son of Josiah, was the last king of Judah (597-587 B.C.). There are also several other men named Zedekiah in the Old Testament.
+
+  * King Nebuchadnezzar made Zedekiah king of Judah after capturing King Jehoiachin and taking him away to Babylon. Zedekiah later rebelled and as a result Nebuchadnezzar captured him and destroyed all of Jerusalem.
+  * Zedekiah, son of Kenaanah, was a false prophet during the time of King Ahab of Israel.
+  * A man named Zedekiah was one of those who signed an agreement to the Lord during the time of Nehemiah.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also:  [[:bxu:obe:other:ahab]], [[:bxu:obe:other:babylon]], [[:bxu:obe:other:ezekiel]], [[:bxu:obe:other:kingdomofisrael]], [[:bxu:obe:other:jehoiachin]], [[:bxu:obe:other:jeremiah]], [[:bxu:obe:other:josiah]], [[:bxu:obe:other:kingdomofjudah]], [[:bxu:obe:other:nebuchadnezzar]], [[:bxu:obe:other:nehemiah]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zedekiah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

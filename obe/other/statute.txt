@@ -1,0 +1,19 @@
+====== statute, statutes ======
+
+===== Definition: =====
+
+A statute is a specific written law that provides guidance for people to live by.
+
+  * The term "statute" is similar in meaning to "ordinance" or " command" or "law" or "decree." All these terms involve instructions and requirements that God gives to his people.
+  * King David said that he delighted himself in Yahweh's statutes.
+  * The term "statute" could also be translated as "specific command" or "special decree."
+
+(See also: [[:bxu:obe:other:command]], [[:bxu:obe:other:decree]], [[:bxu:obe:kt:lawofmoses]], [[:bxu:obe:other:ordinance]], [[:bxu:obe:kt:yahweh]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* statute(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

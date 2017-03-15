@@ -1,0 +1,30 @@
+====== Amalek, Amalekite ======
+
+===== Facts: =====
+
+The Amalekites were a nomadic people group who lived throughout the southern part of Canaan, from the Negev desert to the country of Arabia.  This people group was descended from Amalek, the grandson of Esau.
+
+ 
+  * The Amalekites were bitter enemies with Israel from the time when Israel first came to live in Canaan.
+  * Sometimes the term "Amalek" is used figuratively to refer to all the Amalekites. (See: [[:bxu:ta:vol2:translate:figs_synecdoche]])
+  * in one battle against the Amalekites, when Moses held up his hands, the Israelites were winning. When he got tired and his hands came down, they started losing. So Aaron and Hur helped Moses keep his hands up until the Israelite army had defeated the Amalekites.
+  * Both King Saul and King David led military expeditions against the Amalekites.
+  * After one victory over the Amalekites, Saul disobeyed God by keeping some of the plunder and by not killing the Amalekite king as God had commanded him to do.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:arabia]], [[:bxu:obe:other:david]], [[:bxu:obe:other:esau]], [[:bxu:obe:other:negev]], [[:bxu:obe:other:saul]])
+
+  * [[:bxu:obe:other:altarofincense|Prev chunk]]: [[:bxu:obe:other:altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:bxu:obe:other:amazed|Next chunk]]: [[:bxu:obe:other:amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside|publish-current]]
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* amalekite(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

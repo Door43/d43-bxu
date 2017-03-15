@@ -1,0 +1,22 @@
+====== Gilead ======
+
+===== Definition: =====
+
+Gilead is the name of a mountainous region east of the Jordan river, where the Israelite tribes of Gad, Reuben, and Manasseh lived.
+
+    * This region is also referred to as the "hill country of Gilead" or "Mount Gilead." 
+    * "Gilead" was also the name of several men in the Old Testament. One of these men was the grandson of Manasseh. Another Gilead was the father of Jephthah.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:gad]], [[:bxu:obe:other:jephthah]], [[:bxu:obe:other:manasseh]], [[:bxu:obe:other:reuben]], [[:bxu:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gilead(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

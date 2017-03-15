@@ -1,0 +1,21 @@
+====== Cush ======
+
+===== Facts: =====
+
+Cush was the oldest son of Noah's son Ham. He was also the ancestor of Nimrod. Two of his brothers were named Egypt and Canaan.
+
+  * In Old Testament times, "Cush" was the name of a large region of land south of Israel. It is probable that the land was named after Ham's son Cush.
+  * The ancient region of Cush covered an area of land that may have at different times included parts of the modern-day countries of Sudan, Egypt, Ethiopia, and possibly, Saudi Arabia.
+  * Another man named Cush is mentioned in the Psalms. He was a Benjamite.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:arabia]], [[:bxu:obe:other:canaan]], [[:bxu:obe:other:egypt]], [[:bxu:obe:other:ethiopia]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cush(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

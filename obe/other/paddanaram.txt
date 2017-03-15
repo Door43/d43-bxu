@@ -1,0 +1,24 @@
+====== Paddan Aram ======
+
+===== Facts: =====
+
+Paddan Aram was the name of a region where Abraham's family lived before moving to the land of Canaan. It means "plain of Aram."
+
+  * When Abraham left Haran in Paddan Aram to travel to the land of Canaan, most of the rest of his family stayed behind in Haran.
+  * Many years later, Abraham's servant went to Paddan Aram to find a wife for Isaac among his relatives there and found Rebekah, grand-daughter of Bethuel.
+  * Isaac and Rebekah's son Jacob also traveled to Paddan Aram and married two daughters of Rebekah's brother Laban who was living in Haran.
+  * Aram, Paddan-Aram, and Aram-Nahariam were all part of the same region that is now where the modern-day country of Syria is located.
+ 
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:abraham]], [[:bxu:obe:other:aram]], [[:bxu:obe:other:bethuel]], [[:bxu:obe:other:canaan]], [[:bxu:obe:other:haran]], [[:bxu:obe:other:jacob]], [[:bxu:obe:other:laban]], [[:bxu:obe:other:rebekah]], [[:bxu:obe:other:syria]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* paddanaram(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

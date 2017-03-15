@@ -1,0 +1,31 @@
+====== virgin ======
+
+
+===== Definition: =====
+
+A virgin is a woman who has never had sexual relations.
+
+    * The prophet Isaiah said that the Messiah would be born from a virgin.
+    * Mary was a virgin when she was pregnant with Jesus. He did not have a human father.
+    * Some languages may have a term that is a polite way of referring to a virgin. (See: [[:bxu:ta:vol2:translate:figs_euphemism|Euphemism]])
+
+(See also: [[:bxu:obe:kt:christ]], [[:bxu:obe:other:isaiah]], [[:bxu:obe:kt:jesus]], [[:bxu:obe:other:mary]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* virgin(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:bxu:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
+  ***[[:bxu:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin** and was engaged to be married to a man named Joseph.
+  ***[[:bxu:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
+  ***[[:bxu:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin** named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus.
+
+~~DISCUSSION~~
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

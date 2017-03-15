@@ -1,0 +1,23 @@
+====== Shiloh ======
+
+===== Facts: ===== 
+
+Shiloh was a walled Canaanite city that was conquered by the Israelites under the leadership of Joshua.
+
+  * The city of Shiloh was located west of the Jordan River and northeast of the city of Bethel.
+  * During the time that Joshua was leading Israel, the city of Shiloh was a meeting place for the people of Israel.
+  * The twelve tribes of Israel met together at Shiloh to hear Joshua tell them which portion of the land of Canaan had been assigned to each of them.
+  * Before any temple was built in Jerusalem, Shiloh was the place where the Israelites came to sacrifice to God.
+  * When Samuel was a young boy, his mother Hannah took him to live in Shiloh to be trained by the priest Eli to serve Yahweh.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:bethel]], [[:bxu:obe:other:dedicate]], [[:bxu:obe:other:hannah]], [[:bxu:obe:other:jerusalem]], [[:bxu:obe:other:jordanriver]], [[:bxu:obe:kt:priest]], [[:bxu:obe:other:sacrifice]], [[:bxu:obe:other:samuel]], [[:bxu:obe:kt:temple]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shiloh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

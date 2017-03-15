@@ -1,0 +1,23 @@
+====== Barabbas ======
+
+===== Facts: =====
+
+Barabbas was a prisoner in Jerusalem at the time when Jesus was arrested.
+
+  * Barabbas was a criminal who had committed crimes of murder and rebellion against the Roman government.
+  * When Pontius Pilate offered to either release Barabbas or Jesus, the people chose Barabbas.
+  * So Pilate allowed Barabbas to go free, but condemned Jesus to be killed.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See: [[:bxu:obe:other:pilate]], [[:bxu:obe:other:rome]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* barabbas(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+{{tag>publish}}

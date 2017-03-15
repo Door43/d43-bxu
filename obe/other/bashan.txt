@@ -1,0 +1,26 @@
+====== Bashan ======
+
+===== Facts: =====
+
+Bashan was a region of land east of the Sea of Galilee. It covered an area that is now part of Syria and the Golan Heights.
+
+  * An Old Testament city of refuge called "Golan" was located in the region of Bashan.
+  * Bashan was a very fertile region known for its oak trees and pasturing animals. 
+  * Genesis 14 records that Bashan was the site of a war between several kings and their nations.
+  * During Israel's wanderings in the desert after their escape from Egypt, they took possession of part of the region of Bashan.
+  * Years later, King Solomon obtained supplies from that region.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See: [[:bxu:obe:other:egypt]], [[:bxu:obe:other:oak]], [[:bxu:obe:other:seaofgalilee]], [[:bxu:obe:other:syria]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bashan(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

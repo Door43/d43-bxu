@@ -1,0 +1,21 @@
+====== guilt offering ======
+
+===== Definition: =====
+
+The guilt offering was an offering or sacrifice that God required the Israelites to make if they had accidentally did something wrong such as disrespecting God or damaging another person's property.
+
+  * This offering involved the sacrifice of an animal and paying a fine, with silver or gold money.
+  * In addition, the person at fault was responsible to pay for any damage that was done.
+
+
+(See also: [[:bxu:obe:other:burntoffering]], [[:bxu:obe:other:grainoffering]], [[:bxu:obe:other:sacrifice]], [[:bxu:obe:other:sinoffering]], )
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* guiltoffering(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

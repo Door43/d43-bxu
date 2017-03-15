@@ -1,0 +1,20 @@
+====== Gethsemane ======
+
+===== Facts: =====
+
+Gethsemane was a garden of olive trees east of Jerusalem beyond the Kidron valley and near the Mount of Olives.
+
+  * The garden of Gethsemane was a place where Jesus and his followers would go to be alone and rest, away from the crowds.
+  * It was in Gethsemane that Jesus prayed in deep sorrow, before being arrested there by Jewish leaders.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:judasiscariot]], [[:bxu:obe:other:kidronvalley]], [[:bxu:obe:other:mountofolives]] )
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gethsemane(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

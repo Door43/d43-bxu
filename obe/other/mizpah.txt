@@ -1,0 +1,20 @@
+====== Mizpah ======
+
+===== Facts: =====
+
+Mizpah is the name of several towns mentioned in the Old Testament. It means, "look-out point" or "watchtower."
+
+  * When David was being pursued by Saul, he left his parents in Mizpah, under the protection of the king of Moab.
+  * One city called Mizpah was located on the border between the kingdoms of Judah and Israel. It was a major military center.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:david]], [[:bxu:obe:other:kingdomofjudah]], [[:bxu:obe:other:kingdomofisrael]], [[:bxu:obe:other:moab]], [[:bxu:obe:other:saul]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mizpah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

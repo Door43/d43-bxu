@@ -1,0 +1,23 @@
+====== Zerubbabel ======
+
+===== Facts: =====
+
+Zerubbabel was the name of two Israelite men in the Old Testament.
+
+  * One of these was a descendant of Jehoiakim and Zedekiah.
+  * A different Zerubbabel, son of Shealtiel, was the head of the tribe of Judah during the time of Ezra and Nehemiah, when Cyrus king of Persia released the Israelites from their captivity in Babylon.
+  * Zerubbabel and the high priest Joshua were among those who helped rebuild the temple and altar of God. 
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:other:babylon]], [[:bxu:obe:other:captive]], [[:bxu:obe:other:cyrus]], [[:bxu:obe:other:ezra]], [[:bxu:obe:kt:highpriest]], [[:bxu:obe:other:jehoiakim]], [[:bxu:obe:other:joshua]], [[:bxu:obe:other:judah]], [[:bxu:obe:other:nehemiah]], [[:bxu:obe:other:persia]], [[:bxu:obe:other:zedekiah]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zerubbabel(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,19 @@
+====== mystery, hidden truth ======
+
+===== Definition: =====
+
+In the Bible, the term "mystery" refers to something unknown or difficult to understand that God is now explaining.
+
+  * The New Testament states that the gospel of Christ was a mystery that was not known in past ages.
+  * One of the specific points described as a mystery is that Jews and Gentiles would be equal in Christ.
+  * This term could also be translated as "secret" or "hidden things" or "something unknown."
+
+(See also: [[:bxu:obe:kt:christ]], [[:bxu:obe:other:gentile]], [[:bxu:obe:kt:goodnews]], [[:bxu:obe:other:jew]], [[:bxu:obe:kt:true]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mystery(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

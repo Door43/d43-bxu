@@ -1,0 +1,23 @@
+====== Molech, Moloch ======
+
+===== Facts: =====
+
+Molech was the name of one of the false gods that the Canaanites worshiped. Other spellings are "Moloch" and "Molek."
+
+  * People who worshiped Molech sacrificed their children to him by means of fire.
+  * Some of the Israelites also worshiped Molech instead of the one true God, Yahweh. They followed the evil practices of Molech worshipers, including sacrificing their children.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:canaan]], [[:bxu:obe:kt:evil]], [[:bxu:obe:kt:falsegod]], [[:bxu:obe:kt:god]], [[:bxu:obe:other:idol]], [[:bxu:obe:other:sacrifice]], [[:bxu:obe:kt:true]], [[:bxu:obe:kt:worship]], [[:bxu:obe:kt:yahweh]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* molech(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

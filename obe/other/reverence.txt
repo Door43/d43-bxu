@@ -1,0 +1,21 @@
+====== reverence ======
+
+===== Definition: =====
+
+The term "reverence" refers to feelings of profound, deep respect for someone or something.
+
+  * Feelings of reverence can be seen in actions that honor the person who is revered.
+  * The fear of the Lord is an inner reverence that manifests itself in obedience to God's commandments.
+  * This term could also be translated as "fear and honor" or "sincere respect."
+
+
+
+(See also: [[:bxu:obe:kt:fear]], [[:bxu:obe:other:honor]], [[:bxu:obe:other:obey]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reverence(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

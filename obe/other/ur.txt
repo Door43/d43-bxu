@@ -1,0 +1,20 @@
+====== Ur ======
+
+===== Facts: =====
+
+Ur was an important city along the Euphrates River in the ancient region of Chaldea, which was part of Mesopotamia. This region was located in what is now the modern-day country of Iraq.
+
+  * Abraham was from the city of Ur and it was from there that God called him to leave to go to the land of Canaan.
+  * Haran, the brother of Abraham and father of Lot, died in Ur. This was probably a factor that influenced Lot to leave Ur with Abraham.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:abraham]], [[:bxu:obe:other:canaan]], [[:bxu:obe:other:chaldeans]], [[:bxu:obe:other:euphrates]], [[:bxu:obe:other:haran]],  [[:bxu:obe:other:lot]], [[:bxu:obe:other:mesopotamia]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ur(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,21 @@
+====== Shinar ======
+
+===== Facts: =====
+
+Shinar means "country of two rivers" and was the name of a plain or region in southern Mesopotamia.
+
+  * Shinar later became known as "Chaldea" and then, "Babylonia."
+  * Ancient peoples living in the city of Babel in the Plain of Shinar built a tall tower to try to make themselves great.
+  * Generations later, the Jewish patriarch Abraham lived in the city of Ur in this region, which by that time was called "Chaldea."
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:other:abraham]], [[:bxu:obe:other:babel]], [[:bxu:obe:other:babylon]], [[:bxu:obe:other:chaldeans]], [[:bxu:obe:other:mesopotamia]], [[:bxu:obe:other:patriarchs]], [[:bxu:obe:other:ur]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shinar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

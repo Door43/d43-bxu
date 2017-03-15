@@ -1,0 +1,20 @@
+====== Bethuel ======
+
+===== Facts: =====
+
+Bethuel was the son of Abraham's brother Nahor.
+
+  * Bethuel was the father of Rebekah and Laban.
+  * There was also a town called Bethuel, which may have been located in southern Judah, not far from the town of Beersheba.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also:  [[:bxu:obe:other:beersheba]], [[:bxu:obe:other:laban]], [[:bxu:obe:other:nahor]], [[:bxu:obe:other:rebekah]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bethuel(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

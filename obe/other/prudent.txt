@@ -1,0 +1,21 @@
+====== prudent ======
+
+===== Facts: =====
+
+The term "prudent" describes a person who thinks carefully about his actions and makes wise decisions. 
+
+  * Often "prudence" refers to the ability to make wise decisions about practical, physical matters, such as in managing money or property.
+  * Although "prudence" and "wisdom" are similar in meaning, often "wisdom" is more general and focuses on spiritual or moral matters.
+  * Depending on the context, "prudent" could also be translated as, "shrewd" or "careful" or "wise."
+
+(See also: [[:bxu:obe:other:shrewd]], [[:bxu:obe:kt:spirit]], [[:bxu:obe:kt:wise]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* prudent(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

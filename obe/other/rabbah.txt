@@ -1,0 +1,23 @@
+====== Rabbah ======
+
+===== Definition: =====
+
+Rabbah was the most important city of the Ammonite people.
+
+  * In battles against the Ammonites, the Israelites often attacked Rabbah.
+  * Israel's King David captured Rabbah as one of his last conquests.
+  * The modern-day city Amman Jordan is now where Rabbah used to be located.
+
+
+(See also: [[:bxu:obe:other:ammon]], [[:bxu:obe:other:david]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rabbah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

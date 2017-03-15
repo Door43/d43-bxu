@@ -1,0 +1,24 @@
+====== Titus ======
+
+===== Facts: =====
+
+Titus was a Gentile who became a believer through the ministry of the apostle Paul. He was trained by Paul to be a leader in the early churches.
+
+  * A letter written to Titus by Paul is one of the books of the New Testament.
+  * In this letter Paul instructed Titus to appoint elders for the churches on the island of Crete.
+  * In some of his other letters to Christians, Paul mentions Titus as someone who encouraged him and brought him joy.
+
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:kt:appoint]], [[:bxu:obe:kt:believer]], [[:bxu:obe:kt:church]], [[:bxu:obe:kt:circumcise]], [[:bxu:obe:other:crete]], [[:bxu:obe:other:elder]], [[:bxu:obe:other:encourage]], [[:bxu:obe:other:instruct]], [[:bxu:obe:kt:minister]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* titus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+{{tag>publish}}

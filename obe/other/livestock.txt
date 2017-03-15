@@ -1,0 +1,22 @@
+====== livestock ======
+
+===== Facts: =====
+
+The term "livestock" refers to animals which are raised to provide food and other useful products. Some types of livestock are also trained as work animals.
+
+  * Kinds of livestock include sheep, cattle, goats, horses, and donkeys.
+  * In Biblical times, wealth was partly measured by how much livestock a person had.
+  * Livestock are used for production of products such as wool, milk, cheese, housing materials, and clothing.
+  * This could also be translated as, "farm animals."
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:cow]], [[:bxu:obe:other:donkey]], [[:bxu:obe:other:goat]], [[:bxu:obe:other:horse]], [[:bxu:obe:other:ox]], [[:bxu:obe:other:sheep]], 
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* livestock(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

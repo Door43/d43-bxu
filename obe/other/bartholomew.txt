@@ -1,0 +1,21 @@
+====== Bartholomew ======
+
+===== Facts: =====
+
+Bartholomew was one of Jesus' twelve apostles.
+
+  * Along with the other apostles, Bartholomew was sent out to preach the gospel and do miracles in Jesus' name.
+  * He was also one of those who saw Jesus return to heaven.
+  * A few weeks after that, he was with the other apostles in Jerusalem at Pentecost when the Holy Spirit came upon them.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:kt:apostle]], [[:bxu:obe:kt:goodnews]], [[:bxu:obe:kt:holyspirit]], [[:bxu:obe:kt:miracle]], [[:bxu:obe:other:pentecost]], [[:bxu:obe:kt:thetwelve]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bartholomew(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

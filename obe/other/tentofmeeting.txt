@@ -1,0 +1,31 @@
+====== tent of meeting ======
+
+
+===== Facts: =====
+
+The term "tent of meeting" refers to a tent which was a temporary place where God met with Moses before the tabernacle was built.
+
+  * The tent of meeting was set up outside the camp of the Israelites.
+  * When Moses went into the tent of meeting to meet with God, a pillar of cloud would stand at the entrance to the tent as a sign of God's presence there. 
+  * After the Israelites built the tabernacle, the temporary tent was no longer needed and the term "tent of meeting" was sometimes used to refer to the tabernacle. 
+
+(See also: [[:bxu:obe:other:israel]], [[:bxu:obe:other:moses]], [[:bxu:obe:other:pillar]], [[:bxu:obe:kt:tabernacle]], [[:bxu:obe:other:tent]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tentofmeeting(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:bxu:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain. 
+  ***[[:bxu:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting** as a sacrifice to God. 
+  ***[[:bxu:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**. 
+  ***[[:bxu:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple. 
+
+~~DISCUSSION~~
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

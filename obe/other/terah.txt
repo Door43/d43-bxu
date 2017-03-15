@@ -1,0 +1,27 @@
+====== Terah ======
+
+​
+
+===== Facts: =====
+
+Terah was a descendant of Noah's son, Shem. He was the father of Abram, Nahor and Haran.
+
+  * Terah left his home in Ur in order to go to the land of Canaan with his son Abram, his nephew Lot, and Abram's wife Sarai.
+  * On the way to Canaan, Terah and his family lived for years in the city of Haran in Mesopotamia. Terah died in Haran at the age of 205.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:abraham]], [[:bxu:obe:other:canaan]], [[:bxu:obe:other:haran]], [[:bxu:obe:other:lot]], [[:bxu:obe:other:mesopotamia]], [[:bxu:obe:other:nahor]], [[:bxu:obe:other:sarah]], [[:bxu:obe:other:shem]], [[:bxu:obe:other:ur]])
+
+===== Bible References: =====
+
+Genesis 11:31-32
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* terah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}\\ 
+

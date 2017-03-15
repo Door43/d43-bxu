@@ -1,0 +1,23 @@
+====== Leah ======
+
+===== Facts: =====
+
+Leah was one of Jacob's wives. She was the mother of ten of Jacob's sons whose descendants were some of the twelve tribes of Israel.
+
+    * Leah's father was Laban, who was the brother of Jacob's mother Rebekah.
+    * Jacob didn't love Leah as much as he loved his other wife Rachel, but God abundantly blessed Leah by giving her many children.
+    * One of Leah's sons, Judah, was an ancestor of King David and Jesus.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:other:jacob]], [[:bxu:obe:other:judah]], [[:bxu:obe:other:laban]], [[:bxu:obe:other:rachel]], [[:bxu:obe:other:rebekah]],  [[:bxu:obe:other:12tribesofIsrael]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* leah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

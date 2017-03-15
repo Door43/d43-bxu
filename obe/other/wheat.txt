@@ -1,0 +1,28 @@
+====== wheat ======
+
+
+===== Definition: =====
+
+
+Wheat is a type of grain that people grow for food. When the Bible mentions "grain" or "seeds," it is often talking about wheat grain or seeds.
+
+    * The wheat seeds or grains grow at the top of the wheat plant.
+    * After harvesting the wheat, the grain is separated from the stalk of the plant by threshing it. The stalk of the wheat plant is also called "straw" and is often placed on the ground for animals to sleep on.
+  * After threshing, the chaff surrounding the grain seed is separated from the grain by winnowing and is thrown away.
+    * People grind the wheat grain into flour, and use this for making bread.
+
+
+(See also: [[:bxu:obe:other:barley]], [[:bxu:obe:other:chaff]], [[:bxu:obe:other:grain]], [[:bxu:obe:kt:seed]], [[:bxu:obe:other:thresh]], [[:bxu:obe:other:winnow]])
+
+
+===== Bible References: =====
+
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wheat(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

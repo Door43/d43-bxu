@@ -1,0 +1,21 @@
+====== Laban ======
+
+===== Facts: =====
+
+In the Old Testament, Laban was the uncle and father-in-law of Jacob. 
+
+  * Jacob lived with Laban's household in Padan Aram and managed his sheep and goats as a condition of marriage to Laban's daughters.
+  * Jacob's preference was for Laban's daughter Rachel to be his wife.
+  * Laban deceived Jacob and made him marry his oldest daughter Leah first before giving Rachel to him as his wife.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:jacob]], [[:bxu:obe:other:nahor]], [[:bxu:obe:other:leah]], [[:bxu:obe:other:rachel]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* laban(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

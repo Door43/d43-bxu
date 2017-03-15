@@ -1,0 +1,22 @@
+====== Gibeah ======
+
+===== Facts: =====
+
+Gibeah is the name of a city that was located north of Jerusalem and south of Bethel.
+
+  * Gibeah was in the territory of the tribe of Benjamin.
+  * It was the site of a huge battle between the Benjamites and Israel.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:other:benjamin]], [[:bxu:obe:other:bethel]], [[:bxu:obe:other:jerusalem]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gibeah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

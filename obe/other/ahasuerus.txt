@@ -1,0 +1,25 @@
+====== Ahasuerus ======
+
+===== Facts: =====
+
+Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty years.
+
+  * This was during the time the exiled Jews were living in Babylonia, which had come under Persian rule.
+  * Another name for this king may have been Xerxes.
+  * After sending away his queen in a fit of anger, King Ahasuerus later chose a Jewish woman named Esther to be his new wife and queen.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:babylon|Babylon, Babylonian]], [[:bxu:obe:other:esther|Esther]], [[:bxu:obe:other:ethiopia|Ethiopia, Ethiopian]], [[:bxu:obe:other:exile|exile, the Exile]], [[:bxu:obe:other:persia|Persia, Persians]])
+
+* [[:bxu:obe:other:ahab|Prev chunk]]: [[:bxu:obe:other:ahab?do=diff&rev2[0]=1412187189&rev2[1]=&difftype=sidebyside|publish-current]]
+
+  * [[:bxu:obe:other:ahaz|Next chunk]]: [[:bxu:obe:other:ahaz?do=diff&rev2[0]=1433340838&rev2[1]=1433964900&difftype=sidebyside|review-publish]] | [[:bxu:obe:other:ahaz?do=diff&rev2[0]=1433964900&rev2[1]=&difftype=sidebyside|publish-current]]
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ahasuerus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

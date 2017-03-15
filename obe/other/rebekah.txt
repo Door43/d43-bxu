@@ -1,0 +1,33 @@
+====== Rebekah ======
+
+
+===== Facts: =====
+
+Rebekah was a grand-daughter of Abraham's brother Nahor.
+
+    * God chose Rebekah to be the wife of Abraham's son Isaac. 
+    * Rebekah left the region of Aram Naharaim where she lived and went with Abraham's servant to the region of the Negev where Isaac was living.
+    * For a long time Rebekah did not have any children, but finally God blessed her with twin boys, Esau and Jacob.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:other:abraham]], [[:bxu:obe:other:aram]], [[:bxu:obe:other:esau]], [[:bxu:obe:other:isaac]], [[:bxu:obe:other:jacob]], [[:bxu:obe:other:nahor]], [[:bxu:obe:other:negev]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rebekah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:bxu:obs:notes:frames:06-02| [06-02]]]** After a very long journey to the land where Abraham's relatives lived, God led the servant to **Rebekah**. She was the granddaughter of Abraham's brother.
+  ***[[:bxu:obs:notes:frames:06-06| [06-06]]]** God told **Rebekah**, "There are two nations inside of you."
+  ***[[:bxu:obs:notes:frames:07-01| [07-01]]]** As the boys grew up, **Rebekah** loved Jacob, but Isaac loved Esau.
+  ***[[:bxu:obs:notes:frames:07-03| [07-03]]]** Isaac wanted to give his blessing to Esau. But before he did, **Rebekah** and Jacob tricked him by having Jacob pretend to be Esau.
+  ***[[:bxu:obs:notes:frames:07-06| [07-06]]]** But **Rebekah** heard of Esau's plan. So she sent Jacob far away to live with her relatives.
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}

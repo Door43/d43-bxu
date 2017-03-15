@@ -1,0 +1,23 @@
+====== Moab, Moabite, Moabitess ======
+
+===== Facts: =====
+
+Moab was the son of Lot's elder daughter. It also became the name of the land where he and his family lived. The term "Moabite" refers to a person who is descended from Moab or who lives in the country of Moab.
+
+  * The country of Moab was located east of the Salt Sea.
+  * Moab was southeast from the town of Bethlehem where Naomi's family lived.
+  * The people in Bethlehem called Ruth a "Moabitess" because she was a woman from the country of Moab. This term could also be translated as, "Moabite woman" or "woman from Moab."
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:bethlehem]], [[:bxu:obe:other:judea]], [[:bxu:obe:other:lot]], [[:bxu:obe:other:ruth]], [[:bxu:obe:other:saltsea]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* moab(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

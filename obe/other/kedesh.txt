@@ -1,0 +1,24 @@
+====== Kedesh ======
+
+===== Facts: =====
+
+Kedesh was a Canaanite city that was taken over by the Israelites when they entered the land of Canaan.
+
+  * This city was located in the northern part of Israel, in the portion of land that was given to the tribe of Naphtali.
+  * Kedesh was one of the cities that was chosen as a place where the Levite priests could live, since they did not have any land of their own.
+  * It was also set apart as a "city of refuge."
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:canaan]], [[:bxu:obe:other:hebron]], [[:bxu:obe:other:levite]], [[:bxu:obe:other:naphtali]], [[:bxu:obe:kt:priest]], [[:bxu:obe:kt:refuge]], [[:bxu:obe:other:shechem]], [[:bxu:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* kedesh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

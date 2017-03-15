@@ -1,0 +1,26 @@
+====== Cherethites ======
+
+===== Facts: =====
+
+The Cherethites were a people group who were probably part of the Philistines. Also written as "Kerethites."
+
+  * The "Cherethites and Pelethites" were a special group of soldiers from King David's army who were especially devoted to him as his bodyguards.
+  * Benaiah, son of Jehoiada, a member of David's administrative corps, was the leader of the Cherethites and Pelethites.
+  * The Cherethites remained with David when he had to flee Jerusalem because of Absalom's revolt.
+
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:absalom]], [[:bxu:obe:other:benaiah]], [[:bxu:obe:other:david]], [[:bxu:obe:other:philistines]])
+
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cherethites(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

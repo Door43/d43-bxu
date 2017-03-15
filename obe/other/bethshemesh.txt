@@ -1,0 +1,21 @@
+====== Beth Shemesh ======
+
+===== Facts: =====
+
+Beth Shemesh was the name of a Canaanite city approximately 30 kilometers west of Jerusalem.
+
+  * The Israelites captured Beth Shemesh during the time of Joshua's leadership.
+  * Beth Shemesh was a city that was set aside as a place for the Levite priests to live.
+  * When the Philistines were taking the captured ark of the covenant back to Jerusalem, Beth Shemesh was the first city where they stopped with it.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:arkofthecovenant]], [[:bxu:obe:other:canaan]], [[:bxu:obe:other:jerusalem]], [[:bxu:obe:other:joshua]], [[:bxu:obe:other:levite]], [[:bxu:obe:other:philistines]], )
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bethshemesh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

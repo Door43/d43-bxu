@@ -1,0 +1,21 @@
+====== Tubal ======
+
+===== Facts: =====
+
+There are several men in the Old Testament who had the name "Tubal."
+
+  * One man named Tubal was one of the sons of Japheth.
+  * A man named "Tubal-Cain" was the son of Lamech and descendant of Cain.
+  * Tubal is also the name of a people group mentioned by the prophets Isaiah and Ezekiel.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:cain]], [[:bxu:obe:other:descendant]], [[:bxu:obe:other:ezekiel]], [[:bxu:obe:other:isaiah]], [[:bxu:obe:other:japheth]], [[:bxu:obe:other:lamech]], [[:bxu:obe:other:peoplegroup]], [[:bxu:obe:kt:prophet]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tubal(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,24 @@
+====== Timothy ======
+
+===== Facts: =====
+
+Timothy was a young man from Lystra who became a believer in Christ as a result of Paul's ministry in his town. He later joined Paul on several missionary trips and helped shepherd new communities of believers.
+
+  * Timothy's father was a Greek, but both his grandmother Lois and his mother Eunice were Jews and believers in Christ.
+  * The elders and Paul formally appointed Timothy for the ministry by placing their hands on him and praying for him.
+  * Two books in the New Testament (I Timothy and 2 Timothy) are letters written by Paul, providing guidance to Timothy as a young leader of local churches.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names]])
+
+(See also: [[:bxu:obe:kt:appoint]], [[:bxu:obe:kt:believer]], [[:bxu:obe:kt:church]], [[:bxu:obe:other:greek]], [[:bxu:obe:kt:minister]])
+
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* timothy(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+{{tag>publish}}

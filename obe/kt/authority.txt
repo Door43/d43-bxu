@@ -1,0 +1,37 @@
+====== authority ======
+
+
+===== Definition: =====
+
+
+The term "authority" refers to the power of influence and control that someone has over someone else.
+
+    * Kings and other governing rulers have authority over the people they are ruling.
+    * The word "authorities" refers to people, governments, or organizations that have authority over others.
+    * Masters have authority over their servants or slaves. Parents have authority over their children.
+    * Governments have the authority or right to make laws that govern their citizens.
+
+===== Translation Suggestions: =====
+
+    * The term "authority" can also be translated as "control" or "right" or "qualifications."
+    * Sometimes "authority" is used with the meaning of "power."
+    * When "authorities" is used to refer to people or organizations who rule people, it could also be translated as "leaders" or "rulers" or "powers."
+    * The phrase "by his own authority" could also be translated as, "with his own right to lead" or "based on his own qualifications."
+    * The expression, "under authority" could be translated as, "responsible to obey" or "having to obey others' commands."
+
+(See also: [[:bxu:obe:other:citizen]], [[:bxu:obe:other:command]], [[:bxu:obe:other:obey]], [[:bxu:obe:kt:power]], [[:bxu:obe:other:ruler]])
+
+
+
+===== Bible References: =====
+
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* authority(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,28 @@
+====== Ishmael ======
+
+===== Facts: =====
+
+Ishmael was the son of Abraham and the Egyptian slave Hagar. There are also several other men in the Old Testament named Ishmael.
+
+  * The name "Ishmael" means, "God hears."
+  * God promised to bless Abraham's son Ishmael, but he was not the son God had promised to establish his covenant with.
+  * God protected Hagar and Ishmael when they were sent into the desert.
+  * While Ishmael was living in the desert of Paran, he married an Egyptian woman.
+  * Ishmael son of Nethaniah was an army officer from Judah who led a group of men to kill a governor who had been appointed by the Babylonian king, Nebuchadnezzar.
+  * There are also four other men named Ishmael in the Old Testament.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:abraham]], [[:bxu:obe:other:babylon]], [[:bxu:obe:kt:covenant]], [[:bxu:obe:other:desert]], [[:bxu:obe:other:egypt]], [[:bxu:obe:other:hagar]], [[:bxu:obe:other:isaac]], [[:bxu:obe:other:nebuchadnezzar]], [[:bxu:obe:other:paran]], [[:bxu:obe:other:sarah]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ishmael(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bxu:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
+  * **[[:bxu:obs:notes:frames:05-04|[05-04]]]**"I will make **Ishmael**  a great nation, too, but my covenant will be with Isaac."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

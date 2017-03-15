@@ -1,0 +1,24 @@
+====== hoof, hoofed, hooves ======
+
+===== Facts: =====
+
+These terms refer to the hard material covering the bottom of the feet of certain animals such as camels, cattle, deer, horses, donkeys, pigs, oxen, sheep, and goats.
+
+  * An animal's hooves protect its feet when walking.
+  * Some animals have hooves that are split into two parts and others do not.
+  * God told the Israelites that animals which had split hooves and chewed a cud were considered clean to eat. This included cattle, sheep, deer, and oxen.
+  
+
+(See: [[:bxu:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also:  [[:bxu:obe:other:camel]], [[:bxu:obe:other:cow]],  [[:bxu:obe:other:donkey]], [[:bxu:obe:other:goat]], [[:bxu:obe:other:ox]], [[:bxu:obe:other:pig]], [[:bxu:obe:other:sheep]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hooves(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

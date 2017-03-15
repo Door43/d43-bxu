@@ -1,0 +1,21 @@
+====== Ashkelon ======
+
+===== Facts: =====
+
+In Bible times, Ashkelon was a major Philistine city located on the coast of the Mediterranean Sea. It still exists in Israel today.
+
+  * Ashkelon was one of the five most important Philistine cities, along with Ashdod, Ekron, Gath, and Gaza.
+  * The Israelites did not completely conquer the people of Ashkelon, even though the kingdom of Judah occupied its hill country.
+  * Ashkelon remained occupied by the Philistines for hundreds of years.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:bxu:obe:other:ashdod]], [[:bxu:obe:other:canaan]], [[:bxu:obe:other:ekron]], [[:bxu:obe:other:gath]], [[:bxu:obe:other:gaza]], [[:bxu:obe:other:philistines]], [[:bxu:obe:other:thesea]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ashkelon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

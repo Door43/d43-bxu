@@ -1,0 +1,20 @@
+====== Berea ======
+
+===== Facts: =====
+
+In New Testament times, Berea (or Beroea) was a prosperous Greek city in southeast Macedonia, about 80 kilometers south of Thessalonica.
+
+  * Paul and Silas fled to the city of Berea after their fellow Christians helped them escape from certain Jews who had caused trouble for them in Thessalonica.
+  * When the people living in Berea heard Paul preach, they researched the Scriptures to confirm that what he was telling them was true.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:macedonia]], [[:bxu:obe:other:paul]], [[:bxu:obe:other:silas]], [[:bxu:obe:other:thessalonica]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* berea(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

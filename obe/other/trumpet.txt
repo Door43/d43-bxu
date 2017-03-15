@@ -1,0 +1,20 @@
+====== trumpet ======
+
+===== Definition: =====
+
+The term "trumpet" refers to an instrument for producing music or for calling people to gather together for an announcement or meeting.
+
+  * A trumpet was commonly made from either metal, seashell, or an animal horn.
+  * Trumpets were most commonly blown to call people to come together for battle, and for Israel's public assemblies.
+  * The book of Revelation describes a scene in the end times in which angels blow their trumpets to signal the outpouring of the wrath of God on the earth.
+
+
+(See also: [[:bxu:obe:kt:angel]], [[:bxu:obe:kt:assembly]], [[:bxu:obe:other:earth]], [[:bxu:obe:other:horn]], [[:bxu:obe:other:israel]], [[:bxu:obe:kt:wrath]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* trumpet(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

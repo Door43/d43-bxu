@@ -1,0 +1,22 @@
+====== Cyprus ======
+
+===== Facts: =====
+
+Cyprus is an island in the Mediterranean Sea, about 64 kilometers south of the modern-day country of Turkey.
+
+  * Barnabas was from Cyprus so it is probable that his cousin John Mark was also from there.
+  * Paul and Barnabas preached together on the island of Cyprus at the beginning of their first missionary journey. John Mark came along to help them on that trip.
+  * Later on, Barnabas and Mark visited Cyprus again.
+  * In the Old Testament, Cyprus is mentioned as being a rich source of cypress trees.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:barnabas]], [[:bxu:obe:other:johnmark]], [[:bxu:obe:other:mediterranean]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cyprus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

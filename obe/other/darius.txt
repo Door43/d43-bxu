@@ -1,0 +1,20 @@
+====== Darius ======
+
+===== Facts: =====
+
+Darius was the name of several kings of Persia. It is possible that "Darius" was a title rather than a name.
+    * "Darius the Mede" was the king who was tricked into having the prophet Daniel thrown into a lion's den as punishment for worshiping God.
+    * "Darius the Persian" helped facilitate the reconstruction of the temple in Jerusalem during the time of Ezra and Nehemiah.
+
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:persia]], [[:bxu:obe:other:babylon]], [[:bxu:obe:other:daniel]], [[:bxu:obe:other:ezra]], [[:bxu:obe:other:nehemiah]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* darius(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

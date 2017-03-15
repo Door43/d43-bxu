@@ -1,0 +1,23 @@
+====== Philistines ======
+
+===== Facts: =====
+
+The Philistines were a people group who occupied a region known as Philistia​ along the coast of the Mediterranean Sea. Their name means "people of the sea."
+
+  * There were five main Philistine cities: Ashdod, Ashkelon, Ekron, Gath, and Gaza.
+  * The city of Ashdod was in the northern part of Philistia, and the city of Gaza was in the southern part.
+  * The Philistines are probably best known for the many years they were at war against the Israelites.
+  * The judge Samson was a famous warrior against the Philistines, using supernatural strength from God.
+  * King David often led battles against the Philistines, including the time as a youth when he defeated the Philistine warrior, Goliath.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:ashdod]], [[:bxu:obe:other:ashkelon]], [[:bxu:obe:other:david]], [[:bxu:obe:other:ekron]], [[:bxu:obe:other:gath]], [[:bxu:obe:other:gaza]], [[:bxu:obe:other:goliath]], [[:bxu:obe:other:saltsea]] )
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* philistines(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

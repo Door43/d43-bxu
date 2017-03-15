@@ -1,0 +1,19 @@
+====== Elizabeth ======
+
+===== Facts: =====
+
+Elizabeth was the mother of John the Baptist. Her husband's name was Zechariah.
+
+    * Zechariah and Elizabeth had never been able to have children, but in their old age, God promised Zechariah that Elizabeth would bear him a son.
+  * God kept his promise, and soon Zechariah and Elizabeth were able to conceive, and she gave birth to a son. They named the baby John.
+  * Elizabeth was also a relative of Mary, Jesus' mother.
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:johnthebaptist|John (the Baptist)]], [[:bxu:obe:other:zechariahnt|Zechariah (NT)]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* elizabeth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

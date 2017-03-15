@@ -1,0 +1,22 @@
+====== Naphtali ======
+
+===== Facts: =====
+
+Naphtali was the sixth son of Jacob. His descendants formed the tribe of Naphtali, which was one of the twelve tribes of Israel.
+
+  * Sometimes the name Naphtali is used to refer to the land where the tribe lived. (See: [[:bxu:ta:vol2:translate:figs_synecdoche]])
+  * The land of Naphtali was located in the northern part of Israel, next to the tribes of Dan and Asher. It was also on the western border of the Sea of Chinnereth.
+  * This tribe is mentioned in both the Old and New Testaments of the Bible.
+ 
+
+(Translation suggestions: [[:bxu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bxu:obe:other:asher]], [[:bxu:obe:other:dan]], [[:bxu:obe:other:jacob]], [[:bxu:obe:other:seaofgalilee]], [[:bxu:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* naphtali(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
